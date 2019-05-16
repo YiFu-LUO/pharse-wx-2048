@@ -11,6 +11,8 @@
 	"libVersion": "1.9.94",
 	"appid": "wx36a1877c826c414c",
 	"projectname": "pharse-wx-2048",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

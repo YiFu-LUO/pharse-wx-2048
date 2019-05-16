@@ -1,3 +1,4 @@
+import Phaser from './libs/phaser-wx.js';
 /**
  * Created by flogvit on 2015-11-03.
  *
